@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": {"model": "moretnts:block/custom_tnt"}
+    }
+}
